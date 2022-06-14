@@ -4,7 +4,7 @@ const Tom = {
     code: ['HTML', 'CSS', 'Javascript', 'Ruby'],
     askMeAbout: ['web-dev', 'movies', 'music', 'food'],
     technologies: {
-       frameworks: ['SASS', 'React', 'node'],
+       frameworks: ['SASS', 'Bootstrap', 'React', 'node'],
         databases: ['Ruby on rails']
     }
 };
@@ -14,7 +14,7 @@ const Tom = {
 
 ## 🌎 Contact me!
 -  📟 Check my [LinkedIn](https://www.linkedin.com/in/tomas-milanesi-3427bb185/) profile!
-- 📫 Contact me via <a href="mailto:tomi.milanesi.com">email</a>.
+- 📫 Contact me via <a href="mailto:tomi.milanesi.com">email</a>
 
 
 <!--
