@@ -1,7 +1,7 @@
 ```javascript
 const Tom = {
     pronouns: 'he' | 'Him',
-    code: ['HTML', 'CSS', 'Javascript', 'Ruby'],
+    code: ['HTML', 'CSS', 'JavaScript', 'Ruby'],
     askMeAbout: ['web-dev', 'movies', 'music', 'food'],
     technologies: {
        frameworks: ['SASS', 'Bootstrap', 'React', 'node'],
