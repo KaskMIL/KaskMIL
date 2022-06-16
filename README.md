@@ -1,6 +1,6 @@
 ```javascript
 const Tom = {
-    pronouns: 'he' | 'Him',
+    pronouns: 'He' | 'Him',
     code: ['HTML', 'CSS', 'JavaScript', 'Ruby'],
     askMeAbout: ['web-dev', 'movies', 'music', 'food'],
     technologies: {
