@@ -1,16 +1,20 @@
+# Hi There!<br> This is Tom, pleased to meet you!
+
 ```javascript
 const Tom = {
     pronouns: 'He' | 'Him',
-    code: ['HTML', 'CSS', 'JavaScript', 'Ruby'],
+    langages: ['HTML', 'CSS', 'JavaScript', 'Ruby'],
     askMeAbout: ['web-dev', 'movies', 'music', 'food'],
     technologies: {
-       frameworks: ['SASS', 'Bootstrap', 'React', 'node'],
-        databases: ['Ruby on rails']
+       frameworksLibraries: ['SASS', 'Bootstrap', 'React', 'Node.js', 'Ruby on rails'],
+        databases: ['SQL', 'PHP']
     }
 };
 ````
 
-![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaskMIL&show_icons=true&theme=dark)
+![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaskMIL&show_icons=true&theme=ayu-mirage)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaskMIL&theme=ayu-mirage&layout=compact)](https://github.com/KaskMIL/github-readme-stats)
 
 ## 🌎 Contact me!
 -  📟 Check my [LinkedIn](https://www.linkedin.com/in/tomas-milanesi-3427bb185/) profile!
