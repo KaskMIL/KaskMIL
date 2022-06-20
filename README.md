@@ -1,4 +1,4 @@
-# Hi There!<br> This is Tom, pleased to meet you!
+# Hi there!<br> This is **Tom**, pleased to meet you!
 
 ```javascript
 const Tom = {
