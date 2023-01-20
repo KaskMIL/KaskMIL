@@ -6,9 +6,9 @@ const Tom = {
     langages: ['HTML', 'CSS', 'JavaScript', 'Ruby'],
     askMeAbout: ['web-dev', 'movies', 'music', 'food'],
     technologies: {
-       frameworksLibraries: ['Ruby on rails', 'React', 'Redux', 'SASS', 'Bootstrap'],
+       frameworksLibraries: ['Ruby on rails', 'React', 'Redux', 'SASS', 'Bootstrap', 'Tailwindcss'],
        databases: ['Postgresql'],
-       dev/prod/test: ['Webpack', 'Jest', 'Rspec],
+       test: ['Jest', 'Rspec],
        versionControl: ['GIT', 'GitHub']
     }
 };
